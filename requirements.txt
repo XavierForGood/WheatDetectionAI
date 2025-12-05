@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+onnxruntime
+pywebview
+numpy
+pillow
+python-multipart
+jinja2
+opencv-python
